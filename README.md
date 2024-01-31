@@ -2,7 +2,7 @@
 <img align="center" width="100%" src"https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif" />
 <h3 align="justify">A passionate frontend developer from Indonesian</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
